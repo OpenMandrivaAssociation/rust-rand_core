@@ -4,8 +4,8 @@
 %global crate rand_core
 
 Name:           rust-%{crate}
-Version:        0.6.2
-Release:        2
+Version:        0.10.1
+Release:        1
 Summary:        Core random number generator traits and tools for implementation
 
 # Upstream license specification: MIT OR Apache-2.0
